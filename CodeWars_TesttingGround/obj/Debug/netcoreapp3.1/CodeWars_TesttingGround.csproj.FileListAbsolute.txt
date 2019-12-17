@@ -1,0 +1,11 @@
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.exe
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.deps.json
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.runtimeconfig.json
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.runtimeconfig.dev.json
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.dll
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\bin\Debug\netcoreapp3.1\CodeWars_TesttingGround.pdb
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\obj\Debug\netcoreapp3.1\CodeWars_TesttingGround.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\obj\Debug\netcoreapp3.1\CodeWars_TesttingGround.AssemblyInfoInputs.cache
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\obj\Debug\netcoreapp3.1\CodeWars_TesttingGround.AssemblyInfo.cs
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\obj\Debug\netcoreapp3.1\CodeWars_TesttingGround.dll
+C:\Users\Hemat Shah\Engineering45\week8\CodeWars_TesttingGround\CodeWars_TesttingGround\obj\Debug\netcoreapp3.1\CodeWars_TesttingGround.pdb
